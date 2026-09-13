@@ -31,3 +31,5 @@ To clear your watchlist:
 ```cmd
 python tracker.py clear
 ```
+
+<!-- updated: 2026-09-13 -->
