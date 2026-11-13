@@ -32,4 +32,4 @@ To clear your watchlist:
 python tracker.py clear
 ```
 
-<!-- updated: 2026-11-12 -->
+<!-- updated: 2026-11-13 -->
